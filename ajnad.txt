@@ -1,0 +1,663 @@
+1
+en "Asad alnezal"
+ar "آساد النزال"
+
+2
+en "Absher ya tarikh alfakhr"
+ar "أبشر يا تاريخ الفخر"
+
+3
+en "Atayt alqubur funadaytaha"
+ar "أتيت القبور فناديتها"
+
+4
+en "Atayna atayna bithaar alkumah"
+ar "أتينا أتينا بثأر الكماة"
+
+5
+en "Akhi abligh huna alashab"
+ar "أخي أبلغ هنا الأصحاب"
+
+6
+en "Akhi fi aldeen"
+ar "أخي في الدين"
+
+7
+en "Ard sina"
+ar "أرض سيناء"
+
+8
+en "Astawdiak qalb ala alhur sabbaq"
+ar "أستودعك قلب على الحور سباق"
+
+9
+en "Afdi alkhilafa"
+ar "أفدي الخلافة"
+
+10
+en "Aqul laha laqad tal ishtiyaqi"
+ar "أقول لها لقد طال اشتياقي"
+
+11
+en "Ala ya ruh ruhi"
+ar "ألا يا روح روحي"
+
+12
+en "Amah la tabki alayya"
+ar "أماه لا تبكي علي"
+
+13
+en "Ummati qad lah fajr"
+ar "أمتي قد لاح فجرٌ"
+
+14
+en "Ummati kanat la tarda alwahn"
+ar "أمتي كانت لا ترضى الوهن"
+
+15
+en "Ummati hal dariti bianna"
+ar "أمتي هل دريتي بأننا"
+
+16
+en "Anshiru albushra 1"
+ar "أنشروا البشرى 1"
+
+17
+en "Anshiru albushra 2"
+ar "أنشروا البشرى 2"
+
+18
+en "Awri allaza bilhadid"
+ar "أَورِ اللظى بالحديدِ"
+
+19
+en "Itha alharb shabt"
+ar "إذا الحربُ شبت"
+
+20
+en "Itha bazaghat khuyut alshams"
+ar "إذا بزغت خيوط الشمس"
+
+21
+en "Itha ramadan hall"
+ar "إذا رمضان هل"
+
+22
+en "Itha futihat lana balad"
+ar "إذا فتحت لنا بلد"
+
+23
+en "Ilahi la tuadhibni faini"
+ar "إلهي لا تعذبني فإني"
+
+24
+en "Ila an dammani balad"
+ar "إلى أن ضمني بلد"
+
+25
+en "Ilayhim rakibna"
+ar "إليهم ركبنا"
+
+26
+en "Ighzu alayhim"
+ar "اغزوا عليهم"
+
+27
+en "Alan qad ja alqital"
+ar "الآن قد جاء القتال"
+
+28
+en "Alhamdulillah hall alnnasr waleid"
+ar "الحمد لله هل النصر والعيد"
+
+29
+en "Alhamdulillah"
+ar "الحمد لله"
+
+30
+en "Alhur tahfu liliqa"
+ar "الحور تهفو للقاء"
+
+31
+en "Alsayf asdaqu ayyuha alkuffar"
+ar "السيف أصدق أيها الكفار"
+
+32
+en "Alshahada matlabi"
+ar "الشهادة مطلبي"
+
+33
+en "Allahu akbar dawlat alislam fi alyaman"
+ar "الله أكبر دولة الإسلام في اليمن"
+
+34
+en "Almuslim barr"
+ar "المسلم بر"
+
+35
+en "Alnnasr ma yati maa altaghrid"
+ar "النصر ما يأتي مع التغريد"
+
+36
+en "Alyawm yawm aldaqm ya khawk"
+ar "اليوم يوم الدقم يا خوك"
+
+37
+en "Biamr allah natamir"
+ar "بأمر الله نأتمر"
+
+38
+en "Baqiya biithni allah"
+ar "باقية بإذن الله"
+
+39
+en "Ban altariq"
+ar "بان الطريق"
+
+40
+en "Bayiu wastakhlfu"
+ar "بايعوا واستخلفوا"
+
+41
+en "Bisalah aldeen ara asadan"
+ar "بصلاح الدين أرى أسدا"
+
+42
+en "Ballighu minna aba bakr alssalama"
+ar "بلّغوا منا أبا بكر السلاما"
+
+43
+en "Taba alkhudhu"
+ar "تأبى الخضوع"
+
+44
+en "Tasama asruha aldhahabi"
+ar "تسامى عصرها الذهبي"
+
+45
+en "Taqaddam ila almawt"
+ar "تقدم إلى الموت"
+
+46
+en "Tharat bi alashwaq"
+ar "ثارت بي الأشواق"
+
+47
+en "Thabatan thabatan"
+ar "ثباتا ثباتا"
+
+48
+en "Jina jundan lillah"
+ar "جئنا جنداً لله"
+
+49
+en "Ja alsalah mahabbatan"
+ar "جاء الصلاة محبةً"
+
+50
+en "Ja intiqami"
+ar "جاء انتقامي"
+
+51
+en "Jabhat alkhusra"
+ar "جبهة الخسرة"
+
+52
+en "Jarrid suyuf alhaq"
+ar "جرد سيوف الحق"
+
+53
+en "Jahhiz alshass"
+ar "جهز الشاص"
+
+54
+en "Hamdan limawlana washukran"
+ar "حمدا لمولانا وشكرا"
+
+55
+en "Hayat aldhull la artadiha"
+ar "حياة الذل لا أرتضيها"
+
+56
+en "Darat rahaha"
+ar "دارت رحاها"
+
+57
+en "Dammik altariq"
+ar "دمك الطريق"
+
+58
+en "Dawlat alislam salt"
+ar "دولة الإسلام صالت"
+
+59
+en "Dawlat alislam suli wadahri"
+ar "دولة الإسلام صولي ودحري"
+
+60
+en "Dawlat alislam kuni li manara"
+ar "دولة الإسلام كوني لي منارا"
+
+61
+en "Dawlat alislam"
+ar "دولة الاسلام"
+
+62
+en "Dawlati baqiya"
+ar "دولتي باقية"
+
+63
+en "Dawlati la tuqhar"
+ar "دولتي لا تقهر"
+
+64
+en "Tha jahim alkufr aqbal"
+ar "ذا جحيم الكفر أقبل"
+
+65
+en "Rabit wasabir"
+ar "رابط وصابر"
+
+66
+en "Rayat altawhid"
+ar "راية التوحيد"
+
+67
+en "Rabbah qumi"
+ar "رباه قومي"
+
+68
+en "Ritha shuhada mang"
+ar "رثاء شهداء منغ"
+
+69
+en "Rathaytu junud ummatina alkuram"
+ar "رثيت جنود أمتنا الكِرامَ"
+
+70
+en "Raddidu allahu akbar"
+ar "رددوا الله أكبر"
+
+71
+en "Russu alsufuf almuslima"
+ar "رصوا الصفوف المسلمة"
+
+72
+en "Ramadan ya taj alsunna"
+ar "رمضان يا تاج السنة"
+
+73
+en "Sir ila allah wala takhsha siwah"
+ar "سر إلى الله ولا تخشى سواه"
+
+74
+en "Saraya dawlati hayya"
+ar "سرايا دولتي هيا"
+
+75
+en "Sariyna matla alfajr 1"
+ar "سرينا مطلع الفجر 1"
+
+76
+en "Sariyna matla alfajr 2"
+ar "سرينا مطلع الفجر 2"
+
+77
+en "Salam allah ala alshujaan"
+ar "سلام الله على الشجعان"
+
+78
+en "Salu alahzab"
+ar "سلو الأحزاب"
+
+79
+en "Sawfa namdhi lilmaali"
+ar "سوف نمضي للمعالي"
+
+80
+en "Shariat rabbina nur"
+ar "شريعة ربنا نورٌ"
+
+81
+en "Shariatuna shariatuna"
+ar "شريعتنا شريعتنا"
+
+82
+en "Shahr karim qad atalla sabahuh"
+ar "شهر كريم قد أطل صباحه"
+
+83
+en "Salah aldin ya ramz almaali"
+ar "صلاح الدين يا رمز المعالي"
+
+84
+en "Salil alsawaarim nashid alubaah"
+ar "صليل الصوارم نشيد الأُباة"
+
+85
+en "Sawt alsajin"
+ar "صوت السجين"
+
+86
+en "Dharaman dharaman"
+ar "ضراما ضراما"
+
+87
+en "Tagha aljubana"
+ar "طغى الجبناء"
+
+88
+en "Talab alshahada"
+ar "طلب الشهادة"
+
+89
+en "Tahhirini ya dimai"
+ar "طهريني يا دمائي"
+
+90
+en "Ashairuna talbi alyawm"
+ar "عشائرنا تلبي اليوم"
+
+91
+en "Alam alinhinaa"
+ar "علام الانحناء"
+
+92
+en "Aynak tusahir"
+ar "عينك تساهر"
+
+93
+en "Gharib dammani shath albawadi"
+ar "غريب ضمني شعث البوادي"
+
+94
+en "Faltaraqi ya dima"
+ar "فالتراقي يا دمائ"
+
+95
+en "Faltaraqi ya dimai"
+ar "فالتراقي يا دمائي_"
+
+96
+en "Fi sabil allah"
+ar "في سبيل الله"
+
+97
+en "Fi marj dabiq"
+ar "في مرج دابق"
+
+98
+en "Qama lilislam sarh"
+ar "قام للإسلام صرح"
+
+99
+en "Qamat aldawla ajnad"
+ar "قامت الدولة اجناد"
+
+100
+en "Qad tasama"
+ar "قد تسامى"
+
+101
+en "Qad azamna"
+ar "قد عزمنا"
+
+102
+en "Kalsaiqat almuribat"
+ar "كالصاعقات المرعبات"
+
+103
+en "Kilab altawari"
+ar "كلابُ الطوارئ"
+
+104
+en "Kullama qallabt tarfi"
+ar "كلما قلبت طرفي"
+
+105
+en "Kun maa allah"
+ar "كن مع الله"
+
+106
+en "Kuntu hurran shamikhan"
+ar "كنت حراً شامخاً"
+
+107
+en "Kayfama jitum faina qad tahayyana"
+ar "كيفما جئتم فإنا قد تهيئنا"
+
+108
+en "Liajma ummati saffan"
+ar "لأجمع أمتي صفاً"
+
+109
+en "Lilqatl nasaa"
+ar "للقتل نسعى"
+
+110
+en "Lillah darr muaskar alabtal"
+ar "لله در معسكر الأبطال"
+
+111
+en "Lan nanthaniy"
+ar "لن ننثني"
+
+112
+en "Lana almurhafat"
+ar "لنا المرهفات"
+
+113
+en "Ma radina inhinaat"
+ar "ما رضينا انحناءات"
+
+114
+en "Ma lijurhi"
+ar "ما لجرحي"
+
+115
+en "Ma nubali bilaadi"
+ar "ما نبالي بالأعادي"
+
+116
+en "Madin jihad almumineen"
+ar "ماضٍ جهاد المؤمنين"
+
+117
+en "Mithlama kanu fakunu"
+ar "مثلما كانوا فكونوا"
+
+118
+en "Mawal akhi alshahid"
+ar "موال أخي الشهيد"
+
+119
+en "Mawal amshi ala jamr almakhatir"
+ar "موال أمشي على جمر المخاطر"
+
+120
+en "Mawal taqaddam ila almawt"
+ar "موال تقدم إلى الموت"
+
+121
+en "Mawal junduna"
+ar "موال جندنا"
+
+122
+en "Mawal hur aljinan"
+ar "موال حور الجنان"
+
+123
+en "Mawkib alnur"
+ar "موكب النور"
+
+124
+en "Mayadeen aljihad"
+ar "ميادين الجهاد"
+
+125
+en "Nahnu asad alnizal ahl sawlat thiqal"
+ar "نحن آساد النزال أهل صولات ثقال"
+
+126
+en "Nasmu mutawahhidin"
+ar "نسمو متوحدين"
+
+127
+en "Nashid alhuruf lilatfal"
+ar "نشيد الحروف للأطفال"
+
+128
+en "Naddar allah wujuhan"
+ar "نضر الله وجوها"
+
+129
+en "Nahadna nahadna"
+ar "نهضنا نهضنا"
+
+130
+en "Hajar alladhaidh ajnad"
+ar "هاجر اللذائذ أجناد"
+
+131
+en "Habu waqumu ya alansar"
+ar "هبوا وقوموا يا الأنصار"
+
+132
+en "Hadha altariq wahadhihi alaalam"
+ar "هذا الطريق وهذه الأعلام"
+
+133
+en "Hadhihi biji alabiya"
+ar "هذه بيجي الأبية"
+
+134
+en "Hadhi alukhuwa"
+ar "هذي الأخوة"
+
+135
+en "Hallili sumr alhirab"
+ar "هللي سمر الحراب"
+
+136
+en "Halummu halummu"
+ar "هلموا هلموا"
+
+137
+en "Huna alam aljihad"
+ar "هنا علم الجهاد"
+
+138
+en "Hawl alwagha"
+ar "هول الوغى"
+
+139
+en "Hayya inghamas"
+ar "هيا انغمس"
+
+140
+en "Wiarwah tatir"
+ar "وأرواح تطير"
+
+141
+en "Ya ansaruna"
+ar "يا أنصارنا"
+
+142
+en "Ya ibn alyamani"
+ar "يا ابن اليماني"
+
+143
+en "Ya allah aljanna"
+ar "يا الله الجنة"
+
+144
+en "Ya jirahi"
+ar "يا جراحي"
+
+145
+en "Ya junud alhaq hayya"
+ar "يا جنود الحق هيا"
+
+146
+en "Ya junud alsham ya jund aliraq"
+ar "يا جنود الشام يا جند العراق"
+
+147
+en "Ya husaman sulla lilmajd"
+ar "يا حساماً سلّ للمجد"
+
+148
+en "Ya dawlat alislam nawwarti aldunya"
+ar "يا دولة الإسلام نورتِ الدُنـا"
+
+149
+en "Ya dawlat alislam hubi waqumi"
+ar "يا دولة الإسلام هبي وقومي"
+
+150
+en "Ya dawlat alhaq"
+ar "يا دولة الحق"
+
+151
+en "Ya diyaran sada fiha"
+ar "يا دياراً ساد فيها"
+
+152
+en "Ya rahilan wallahi lan ansaka"
+ar "يا راحلا والله لن أنساكا"
+
+153
+en "Ya rabbi asaluka alkhalas lihali"
+ar "يا ربي أسألك الخلاص لحالي"
+
+154
+en "Ya rijal alaqida"
+ar "يا رجال العقيدة"
+
+155
+en "Ya ruba shahwati saa"
+ar "يا رُب شهوةِ ساعة"
+
+156
+en "Ya zayn masra ala aljani aljud"
+ar "يا زين مسرى على الجاني الجود"
+
+157
+en "Ya salami ala aldawla waqaidha"
+ar "يا سلامي على الدولة وقائدها"
+
+158
+en "Ya salami alaykum"
+ar "يا سلامي عليكم"
+
+159
+en "Ya shayn tari rujui lilsuudiya"
+ar "يا شين طاري رجوعي للسعودية"
+
+160
+en "Ya fawz man nal alshahada"
+ar "يا فوز من نال الشهادة"
+
+161
+en "Ya qadi altaghut"
+ar "يا قاضي الطاغوت"
+
+162
+en "Ya quluban min hadid"
+ar "يا قلوباً من حديد"
+
+163
+en "Yakhras lisan alli yasabb"
+ar "يخرس لسان اللي يسبّ"
+
+164
+en "Yadhunnun albilad bila humat"
+ar "يظنون البلاد بلا حماةٍ"
+
+165
+en "Yaqif lakum qafi"
+ar "يقف لكم قافي"
+
+166
+en "Yamini ala aldaqma"
+ar "يميني على الدقمة"
